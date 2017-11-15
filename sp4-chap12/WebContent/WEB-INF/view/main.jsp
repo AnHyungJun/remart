@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>메인메인메인</title>
+<title>메인</title>
 </head>
 <body>
 	<c:if test="${empty aurhInfo}">
